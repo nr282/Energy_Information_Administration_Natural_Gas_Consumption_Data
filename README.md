@@ -12,5 +12,5 @@ Indeed if the open source models replace the closed source models, the Natural G
 forced to compete with the open source models. 
 
 
-Spectral Technologies is the core sponsor for this codebase. 
+Spectral Technologies is the core sponsor for this codebase. Spectral Technologies website is provided here: https://www.spectraltechnologies.io/about
 

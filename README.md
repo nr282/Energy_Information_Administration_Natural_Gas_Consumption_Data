@@ -10,3 +10,7 @@ quality community that rivals closed-source investment processes found at funds 
 
 Indeed if the open source models replace the closed source models, the Natural Gas Trading Industry will become more efficient and will require higher analytical capability. For a fund to be competetive it will be
 forced to compete with the open source models. 
+
+
+Spectral Technologies is the core sponsor for this codebase. 
+

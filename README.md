@@ -6,7 +6,7 @@ However, while the discussion and documentation of EIA Data is highly rigorous, 
 
 Similar to how the technology/AI industry has significant benchmarks for AI model performance, this codebase aims to be (a) framework for running/benchmakring Natural Gas Analytics where the weather data that
 is used is configurable and (b) a set of base models are provided (non-weather historical based model, weather based model etc), (c) the ability for the Natural Gas Trading Community/Enthusiasts to develop high
-quality community that rivals closed-source investment processes found at funds like Millenium/Tudor/Hartree/Brevan Howard etc. 
+quality community that rivals closed-source investment processes found at funds. 
 
 Indeed if the open source models replace the closed source models, the Natural Gas Trading Industry will become more efficient and will require higher analytical capability. For a fund to be competetive it will be
 forced to compete with the open source models. 
